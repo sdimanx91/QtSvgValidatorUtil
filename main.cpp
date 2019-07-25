@@ -41,5 +41,5 @@ int main(int argc, char *argv[])
 
 	qInfo() << "SUCCESS: Svg file is valid";
 
-	return 1;
+	return 0;
 }
