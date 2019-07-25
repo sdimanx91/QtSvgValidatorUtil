@@ -1,5 +1,4 @@
 # QtSvgValidatorUtil
   
 ## using:  
-unux: ./tinySvgValidator fileName.svg  
-windows: tinySvgValidator.exe fileName.svg  
+./tinySvgValidator fileName.svg  
